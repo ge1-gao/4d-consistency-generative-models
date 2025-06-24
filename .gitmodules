@@ -1,0 +1,12 @@
+[submodule "baselines/gcd"]
+	path = baselines/gcd
+	url = git@github.com:basilevh/gcd.git
+[submodule "baselines/som"]
+	path = baselines/som
+	url = git@github.com:vye16/shape-of-motion.git
+[submodule "baselines/cameractrl"]
+	path = baselines/cameractrl
+	url = git@github.com:hehao13/CameraCtrl.git
+[submodule "baselines/motionctrl"]
+	path = baselines/motionctrl
+	url = git@github.com:TencentARC/MotionCtrl.git
